@@ -1,0 +1,11 @@
+Web Server:
+> Check Payments Due
+> User Login/Registration
+> Room Reservation
+
+Desktop Server:
+> Manage Users
+> Manage Rooms
+> View Room Reservation
+> Inventory Management
+> Financial Management

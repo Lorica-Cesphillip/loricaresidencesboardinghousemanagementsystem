@@ -1,0 +1,34 @@
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\Lorica Residences Rental Management System.exe.config
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\Lorica Residences Rental Management System.exe
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\Lorica Residences Rental Management System.pdb
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\MySql.Data.dll
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\System.Memory.dll
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\System.Buffers.dll
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\MySql.Data.xml
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica Residences Boarding House Management System.csproj.AssemblyReference.cache
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Dashboard.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Login.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Properties.Resources.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica Residences Boarding House Management System.csproj.GenerateResource.cache
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica Residences Boarding House Management System.csproj.CoreCompileInputs.cache
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica R.77364A28.Up2Date
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica Residences Rental Management System.exe
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica Residences Rental Management System.pdb
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.CollectiblesReport.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.BedAssignmentForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.BedManagementForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.FeedbackForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.IncomeSummary.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.InventoryForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.InvoiceForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.NoticeBoardForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.PaymentForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.PaymentHistoryView.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.RoomsForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.TenantForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.InventorySummary.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\obj\Debug\Lorica_Residences_Rental_Management_System.Forms.UtilityBillsForm.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\Lorica Residences Rental Management System\bin\Debug\Newtonsoft.Json.xml

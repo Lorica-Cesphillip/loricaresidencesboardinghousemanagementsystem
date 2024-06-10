@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|c:\\users\\loric\\onedrive\\documents\\3rd year\\2nd sem\\event driven programming\\lorica residences rental management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\userapicomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:userapicomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\forms\\bedassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:forms\\bedassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\forms\\bedassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:forms\\bedassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\forms\\tenantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:forms\\tenantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\forms\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7521A71-991C-478F-9FC4-BB80D373EF46}|Lorica Residences Boarding House Management System.csproj|solutionrelative:forms\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:57:51.125Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:29:10.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\UserController.cs",
+              "RelativeDocumentMoniker": "UserController.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\UserController.cs",
+              "RelativeToolTip": "UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:09:11.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAPIComtroller.cs",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\UserAPIComtroller.cs",
+              "RelativeDocumentMoniker": "UserAPIComtroller.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\UserAPIComtroller.cs",
+              "RelativeToolTip": "UserAPIComtroller.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:04:22.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomsForm.cs",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\RoomsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\RoomsForm.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\RoomsForm.cs",
+              "RelativeToolTip": "Forms\\RoomsForm.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAvwHoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:59:22.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\RoomsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\RoomsForm.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\RoomsForm.cs [Design]",
+              "RelativeToolTip": "Forms\\RoomsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:57:04.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:45:45.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FeedbackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\FeedbackForm.cs [Design]",
+              "RelativeToolTip": "Forms\\FeedbackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:43:26.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TenantForm.cs",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\TenantForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TenantForm.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\TenantForm.cs",
+              "RelativeToolTip": "Forms\\TenantForm.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAANcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:37:42.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BedAssignmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\BedAssignmentForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BedAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\BedAssignmentForm.cs",
+              "RelativeToolTip": "Forms\\BedAssignmentForm.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwGoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:34:27.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BedAssignmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\BedAssignmentForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BedAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Forms\\BedAssignmentForm.cs [Design]",
+              "RelativeToolTip": "Forms\\BedAssignmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:34:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\loric\\OneDrive\\Documents\\3rd year\\2nd Sem\\Event Driven Programming\\Lorica Residences Rental Management System\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:40:33.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
